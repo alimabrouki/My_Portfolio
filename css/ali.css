@@ -171,14 +171,13 @@ ul {
     color: white;
     cursor: pointer;
     transition: var(--main-transition);
-    box-shadow: 
-   0 0 10px var(--main-color), 
-    0 0 20px var(--main-color), 
-    0 0 15px var(--main-color), 
-    0 0 0 var(--main-color), 
-    0 0 0 var(--main-color), 
-    0 0 0 var(--main-color), 
-    0 0 90px var(--main-color);
+    box-shadow: 0 0 0px var(--main-color), 
+        0 0 2px var(--main-color), 
+        0 0 2px var(--main-color), 
+        0 0 0 var(--main-color), 
+        0 0 0 var(--main-color), 
+        0 0 0 var(--main-color), 
+        0 0 20px var(--main-color);
 }
 .header .container .nav ul li:hover  button  {
     background-color: white;
