@@ -221,6 +221,7 @@ ul {
     margin-bottom: 48px;
     font-family: math;
     letter-spacing: 2px;
+    text-shadow: -1px 20px 8px black;
 }
 .home .container .box h2 span {
     color: var(--main-color);
@@ -228,6 +229,7 @@ ul {
 .home .container .box p {
     font-size: 25px;
     color: #adadad;
+        text-shadow: -1px 20px 9px black;
 }
 .home .container .box .buttons {
     display: flex;
